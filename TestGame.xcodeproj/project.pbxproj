@@ -442,15 +442,17 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = T2M8PMZUTP;
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = YQ63ZZYZV7;
 				INFOPLIST_FILE = TestGame/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = test.nixsolutions.TestGame;
+				PRODUCT_BUNDLE_IDENTIFIER = test.nixsolutions.TestGame123;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "6e4a6511-2bdb-4519-85c3-d54a7de27089";
+				PROVISIONING_PROFILE_SPECIFIER = "TestGame Dev";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -460,15 +462,17 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = T2M8PMZUTP;
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = YQ63ZZYZV7;
 				INFOPLIST_FILE = TestGame/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = test.nixsolutions.TestGame;
+				PRODUCT_BUNDLE_IDENTIFIER = test.nixsolutions.TestGame123;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "6e4a6511-2bdb-4519-85c3-d54a7de27089";
+				PROVISIONING_PROFILE_SPECIFIER = "TestGame Dev";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
